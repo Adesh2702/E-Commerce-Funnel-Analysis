@@ -18,7 +18,7 @@ The company observed a declining overall conversion rate despite stable website 
 
 Open [`dashboard_preview.html`](dashboard_preview.html) in any browser for an interactive preview of the KPIs and charts (built with Chart.js from the same cleaned data). For the full Tableau version, follow [`Tableau_Dashboard_Guide.md`](Tableau_Dashboard_Guide.md).
 
-*Tip: take a screenshot of the HTML preview or your published Tableau dashboard and save it here as `Dashboard/dashboard_screenshot.png` to embed in this README for GitHub/LinkedIn.*
+![User Metrics]()
 
 ---
 
