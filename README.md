@@ -18,7 +18,7 @@ The company observed a declining overall conversion rate despite stable website 
 
 Open [`dashboard_preview.html`](dashboard_preview.html) in any browser for an interactive preview of the KPIs and charts (built with Chart.js from the same cleaned data). For the full Tableau version, follow [`Tableau_Dashboard_Guide.md`](Tableau_Dashboard_Guide.md).
 
-![User Metrics]()
+![User Metrics](https://github.com/Adesh2702/E-Commerce-Funnel-Analysis/blob/main/E-Commerce-Funnel-Analysis_Dashboard.png)
 
 ---
 
