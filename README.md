@@ -1,6 +1,6 @@
 # 🛒 E-Commerce Funnel Analysis: Root Cause of Conversion Drop
 
-**Author:** [Your Name] · **Tools:** SQL · Python (Pandas, Matplotlib, Seaborn) · Tableau
+**Author:** [Adesh Kishor Dakhore] · **Tools:** SQL · Python (Pandas, Matplotlib, Seaborn) · Tableau
 
 An end-to-end data analytics project investigating why customers drop off during the online purchase journey, identifying the exact root causes with segment-level analysis, and delivering a Tableau dashboard + actionable business recommendations.
 
