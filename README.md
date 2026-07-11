@@ -93,7 +93,7 @@ E-Commerce-Funnel-Analysis/
 - **Discount:** Sessions with a discount convert measurably higher than those without.
 - **User Type:** Returning users convert notably higher than first-time visitors.
 
-Full breakdown with numbers: [`Reports/Funnel_RootCause_Report.md`](Reports/Funnel_RootCause_Report.md)
+Full breakdown with numbers: [`Funnel_RootCause_Report.md`](Funnel_RootCause_Report.md)
 
 ---
 
